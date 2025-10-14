@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    background-color: khaki;
+}
+
+.outercard{
+    display: flex;
+    flex-direction: row;
+}
+
+/* .cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
+
+.cards div{
+    border: 1px solid black;
+}
+img{
+    width: 20%;
+}
